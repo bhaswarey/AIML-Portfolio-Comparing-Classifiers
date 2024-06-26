@@ -32,7 +32,7 @@ It should be stressed that due to internal competition and current financial cri
 
 ## 1.2 Business Goals and KPI
 
-The business objective is to find the best model that can explain success of a client subscribes to the deposit. This model will help in increasing the campaign efficiency by identifying the main characteristics that affect success, helping in a better management of the available resources (e.g. human effort, phone calls, time) and selection of a high quality and affordable set of potential buying customers.
+The business objective is to find the best model that can explain success of a client subscribes to the deposit. This model will help in increasing the campaign efficiency by identifying the main characteristics that affect success, helping improve management of the available resources (e.g. human effort, phone calls, time) and selection of a high quality and affordable set of potential buying customers.
 
 
 
