@@ -418,6 +418,8 @@ f) 'pdays' -  number of days that passed by after the client was last contacted 
 
 
 
+
+
 ### 3.1.2 Addressing Business Questions
 
 Following were some of the business questions answered based on the analysis of the data.
@@ -454,7 +456,7 @@ The likelihood of acceptance with fewer campains is much higher then compare to 
 
 
 
-**3) What is the average acceptance across jobs?  **
+**3) What is the average acceptance across jobs?**
 
 Figure 6 provides the average acceptance across various jobs. 
 
